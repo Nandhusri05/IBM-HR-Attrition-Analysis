@@ -160,7 +160,9 @@ The **HR Attrition Overview** page provides a high-level summary of the organiza
 - Department
 - Job Role
 
----
+### Dashboard Preview
+
+## ![HR Attrition Overview](images/HR_Attrition_Overview.png)
 
 ### Page 2 - Attrition Drivers & Employee Insights
 
@@ -184,7 +186,9 @@ The **Attrition Drivers & Employee Insights** page provides a deeper analysis of
 
 These filters allow users to dynamically explore attrition patterns across different employee groups and organizational segments.
 
----
+### Dashboard Preview
+
+## ![Attrition Drivers & Employee Insights](images/Attrition_Drivers.png)
 
 ## Key Dashboard Insights
 
