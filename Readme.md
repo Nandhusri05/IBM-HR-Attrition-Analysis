@@ -220,7 +220,7 @@ The Power BI dashboard highlights several important workforce patterns:
 - Frequent business travelers experience comparatively higher attrition.
 - Lower job satisfaction and poorer work-life balance are associated with higher employee attrition.
 - Strong positive correlations exist between experience, job level, and monthly income.
-- Employee attrition is influenced by multiple factors rather than any single variable.
+- Employee attrition is associated with multiple workforce factors rather than a single variable.
 
 ---
 
@@ -253,7 +253,7 @@ The project demonstrates an end-to-end data analytics workflow—from raw data e
 ## Repository Structure
 
 ```text
-IBM-HR-Analytics-Employee-Attrition-Analysis/
+IBM-HR-Attrition-Analysis/
 │
 ├── data/
 │   └── WA_Fn-UseC_-HR-Employee-Attrition.csv
